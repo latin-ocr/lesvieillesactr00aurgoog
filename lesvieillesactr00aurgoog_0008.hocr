@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesvieillesactr00aurgoog_0008.png"; bbox 0 0 700 1035; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 156 170 451 200">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 156 170 451 200">
+     <span class='ocr_line' id='line_1_1' title="bbox 156 170 451 200; baseline -0.003 -12"><span class='ocrx_word' id='word_1_1' title='bbox 156 171 172 189; x_wconf 86' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_2' title='bbox 187 171 282 200; x_wconf 57' lang='lat' dir='ltr'>{ARBEY</span> <span class='ocrx_word' id='word_1_3' title='bbox 296 170 451 188; x_wconf 54' lang='lat' dir='ltr'>DAUREVILLX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 93 280 519 323">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 93 280 519 323">
+     <span class='ocr_line' id='line_1_2' title="bbox 93 280 519 323; baseline 0 -10"><span class='ocrx_word' id='word_1_4' title='bbox 93 281 275 314; x_wconf 85' lang='lat' dir='ltr'>VIEILLES</span> <span class='ocrx_word' id='word_1_5' title='bbox 300 280 519 323; x_wconf 87' lang='lat' dir='ltr'>ACTRICES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 67 382 548 449">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 67 382 548 449">
+     <span class='ocr_line' id='line_1_3' title="bbox 67 382 548 449; baseline -0.002 -8"><span class='ocrx_word' id='word_1_6' title='bbox 67 401 204 441; x_wconf 75' lang='lat' dir='ltr'><strong>MUSEE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 226 406 304 439; x_wconf 83' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_8' title='bbox 323 382 548 449; x_wconf 81' lang='lat' dir='ltr'><strong>ANTIQUES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 128 785 491 834">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 128 785 491 834">
+     <span class='ocr_line' id='line_1_4' title="bbox 128 785 491 812; baseline 0 -5"><span class='ocrx_word' id='word_1_9' title='bbox 128 785 323 812; x_wconf 77' lang='lat' dir='ltr'>BIBLIOTHEQUE</span> <span class='ocrx_word' id='word_1_10' title='bbox 334 789 491 808; x_wconf 68' lang='lat' dir='ltr'>CHACORNAC</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 179 819 441 834; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 179 824 183 834; x_wconf 87' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_12' title='bbox 249 819 253 834; x_wconf 81' lang='lat' dir='ltr'>i</span> <span class='ocrx_word' id='word_1_13' title='bbox 266 819 380 834; x_wconf 75' lang='lat' dir='ltr'>Saint-Miche]</span> <span class='ocrx_word' id='word_1_14' title='bbox 398 819 441 834; x_wconf 76' lang='lat' dir='ltr'>Paris</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
